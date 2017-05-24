@@ -1,0 +1,30 @@
+body {
+  padding: 40px;
+  font-family: "helvetica neue", sans-serif;
+  background-color: beige;
+}
+
+.container {
+  width: 600px;
+  margin: auto;
+  color: black;
+  padding: 20px;
+  text-align: center;
+}
+.container h1 {
+  margin: 0;
+  padding: 20px;
+  font-size: 48px;
+}
+.container .btn {
+  border: 0;
+  padding: 20px;
+  margin: 8px;
+  width: 20%;
+  font-size: 20px;
+  border-radius: 2px;
+  color: #FFF;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=index.css.map */
